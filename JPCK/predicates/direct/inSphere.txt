@@ -5,16 +5,16 @@ pdx pdy pdz
 pex pey pez
 
 aex = pax - pex
-aey = pay - pey
-aez = paz - pez
 bex = pbx - pex
-bey = pby - pey
-bez = pbz - pez
 cex = pcx - pex
-cey = pcy - pey
-cez = pcz - pez
 dex = pdx - pex
+aey = pay - pey
+bey = pby - pey
+cey = pcy - pey
 dey = pdy - pey
+aez = paz - pez
+bez = pbz - pez
+cez = pcz - pez
 dez = pdz - pez
 
 aexbey = aex * bey
